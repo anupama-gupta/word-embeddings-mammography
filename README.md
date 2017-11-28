@@ -1,4 +1,4 @@
-# relation-extraction-mammography
+# word-embeddings-mammography
 File word_embeddings.7z contains the relation embeddings trained on 300,000 mammography reports. <br />
 ## Parameters used to train the embeddings - <br />
 Architecture - skip-gram <br />

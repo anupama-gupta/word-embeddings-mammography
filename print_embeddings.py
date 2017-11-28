@@ -7,7 +7,8 @@ def print_vectors(model):
 
 if __name__ == "__main__":
 
-    vec_file = sys.argv[0]
-    model = gensim.models.Word2vec.load(vec_file)
+    vec_file = sys.argv[1]
+    model = gensim.models.Word2Vec.load(vec_file)
     print_vectors(model)
+
 

@@ -9,5 +9,5 @@ Vector Size - 300
 ### Unzip word_embeddings.7z
 $ 7za e word_embeddings.7z 
 ### Print the words and their embeddings
-$ python print_embeddings.py word_embeddings
+$ python get_embeddings.py word_embeddings
 
